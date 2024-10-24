@@ -1,0 +1,14 @@
+@charset "UTF-8";
+#cabecalho{
+    background-color: rgba(223, 90, 66, 0.836);
+}
+.logo{
+    width: 7%;
+    margin: 10px;
+}
+#menu{
+    display: inline;
+    position:absolute;
+    top:20px;
+    left:1000px;
+}
